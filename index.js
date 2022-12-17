@@ -4,18 +4,6 @@
 // У міру змін виводити вміст масиву на сторінку.
 
 
-
-// const lengthMasive = +prompt('Enter amount number');
-// const array = [lengthMasive];
-// for(let i=0; i<lengthMasive; i++) {
-//     const number = +prompt(`Enter number ${i}`)
-//     array[i] = number;
-// }
-// console.log(array);
-
-
-
-
 const number = String(prompt('Enter random number'));
 const numLength = number.length;
 const array = [numLength];
